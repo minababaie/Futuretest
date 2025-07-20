@@ -1,0 +1,18 @@
+```json
+{
+  "name": "dialogflow-render-webhook",
+  "version": "1.0.0",
+  "description": "Dialogflow webhook hosted on Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.1"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
+```
